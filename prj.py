@@ -40,3 +40,4 @@ win = Calc()
 sys.exit(app.exec())
 
 #just interest
+okeeee
